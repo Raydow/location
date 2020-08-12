@@ -1,0 +1,1 @@
+insert into coordinate values (1, -26.265108, -48.851664)
